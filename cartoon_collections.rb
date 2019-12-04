@@ -26,3 +26,4 @@ def find_the_cheese(desiredcheese)
   desiredcheese.index do |cheese|
     cheese == cheese_types
 end
+end
